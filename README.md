@@ -27,7 +27,14 @@ Creating a responsive design was a key aspect of this project. I ensured that th
 ### Interactive Elements
 To enhance user engagement, I incorporated interactive elements on the home page. This may include sliders, animated sections, hover effects, or any other interactive components that contribute to a dynamic and captivating user experience.
 
-## Screenshot
+## Screenshots
+
+### Original
+
+<img src="https://github.com/chriszimbizi/ewseta-redesign/assets/121321293/1fb499d2-0448-46c8-9e9b-45de39d6fa51" height="350" alt="desktop-design" />
+<img src="https://github.com/chriszimbizi/ewseta-redesign/assets/121321293/f89f4df9-8bb8-4a75-b832-e5daab0bd000" height="350" alt="mobile-design"/>
+
+### Redesign 
 
 <img src="https://github.com/chriszimbizi/ewseta-redesign/assets/121321293/e6f054e3-fbfa-4bc0-be48-c0504630a855" height="350" alt="desktop-design" />
 <img src="https://github.com/chriszimbizi/ewseta-redesign/assets/121321293/f2e1c4a8-4850-4eda-a71c-9ff32e1d8f99" height="350" alt="mobile-design"/>
